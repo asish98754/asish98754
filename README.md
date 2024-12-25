@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**asish98754/asish98754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi I'm ASISH KUMAR GHOSH!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Software Engineer<br/>
+Sharing about my journey and learnings in tech<br/>
+
+👨🏼‍🎓 Studies in Masters [Computer Science; Specialaize-Software Engineering] at EPITA (https://www.epita.fr/)<br/>
+
+💼 Work Experience 1.5 years [as a Mobile Developer and Web developer]<br/>
+
+🎯 Currently Learning Python and Project Management
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asish98754)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
