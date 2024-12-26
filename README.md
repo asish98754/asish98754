@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
- 👨🏼‍🎓 Studies in Masters [Computer Science; Specialize-Software Engineering] at EPITA (https://www.epita.fr/)<br> AND 👀 looking for a job.<br>💼 Work Experience 1.5 years [as a Mobile Developer and Web developer]<br>💻  I've done small and extend project during my bachelor and masters level.<br> 🤝 I'm looking to collaborate with a company to show my skills on Software industries<br>🎯 I'm currently learning python and project management for advance position in a company.<br>📢 Ask me anything about my work experience and related facts<br><br><br>
+ 👨🏼‍🎓 Studies in Masters [Computer Science; Specialize-Software Engineering] at EPITA (https://www.epita.fr/)<br> AND 👀 looking for a job.<br>💼 Work Experience 1.5 years [as a Mobile Developer and Web developer]<br>💻  I've done small and extend project during my bachelor, masters level and professional career.<br> 🤝 I'm looking to collaborate with a company to show my skills on Software industries<br>🎯 I'm currently learning python and project management for advance position in a company.<br>📢 Ask me anything about my work experience and related facts<br><br><br>
 
 
 ## 🌐 Socials:
